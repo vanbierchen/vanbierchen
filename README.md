@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @vanbierchen
+- 👀 I’m interested in data base / data science.
+- 🌱 I’m currently learning python.
+- 💞️ I’m looking to collaborate on different projects.
+- 📫 How to reach me ... who knows :D
